@@ -8,10 +8,8 @@ git push (enviar dados ao github)
 
 
 git reflog (ver versãos)
-<<<<<<< HEAD
-sJHFBQEHFJHEQBFJHEQBFJGHQFJHEQJHB
-=======
 git reset -- hard (code)
 git branch (ver)
 git branch nome (add)
 git checkout (nome da branch for switch)
+git merge staging (enquanto branch master)
