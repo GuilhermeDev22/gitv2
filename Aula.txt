@@ -1,0 +1,10 @@
+git init
+git status
+git add . (add arquivos)
+git commit -m "razão"
+git push (enviar dados ao github)
+	git remote (nome) url
+	git push --set-upstream (nome que aparecer)
+
+
+git reflog (ver versãos)
