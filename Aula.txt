@@ -8,3 +8,4 @@ git push (enviar dados ao github)
 
 
 git reflog (ver versãos)
+sJHFBQEHFJHEQBFJHEQBFJGHQFJHEQJHB
