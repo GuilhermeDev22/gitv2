@@ -15,4 +15,3 @@ git reset -- hard (code)
 git branch (ver)
 git branch nome (add)
 git checkout (nome da branch for switch)
->>>>>>> staging
