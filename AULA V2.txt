@@ -13,3 +13,20 @@ git branch (ver)
 git branch nome (add)
 git checkout (nome da branch for switch)
 git merge staging (enquanto branch master)
+
+projeto--------
+git pull
+git checkout -b sistema-de-login master
+add novo arquivo
+git add .
+git status
+git commit -m "sistema de login"
+git checkout master
+git pull
+git merge sistema-de-login
+git push
+
+
+
+
+
